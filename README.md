@@ -74,6 +74,6 @@ Then I configured SLA's. In osTicket SLA is defined as a time limit for how long
 
 </p>
 <p>
-I then created different Help Topics. When the users are filling out different tickets they can choose different Help Topics for what they need help with. For example password resets, Login issues etc. On admin panel, I clicked manage, then Help Topics. I created differnt Help Topics such as password reset. 
+Then I created different Help Topics. When the users are filling out different tickets they can choose different Help Topics for what they need help with. For example password resets, Login issues etc. On admin panel, I clicked manage, then Help Topics. I created differnt Help Topics such as password reset. 
 </p>
 <br />
