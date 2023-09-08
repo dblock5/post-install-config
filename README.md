@@ -50,9 +50,30 @@ Then I created different teams. In osTicket teams allows you to pull agents from
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="850" alt="image" src="https://github.com/dblock5/post-install-config/assets/102873312/c55176f9-e588-4f80-9bc6-827320b2e9cb">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then I created some users (customers). I clicked on agent panel, then users, and added a couple of new users. 
+</p>
+<br />
+<img width="689" alt="image" src="https://github.com/dblock5/post-install-config/assets/102873312/e4b64bbc-3ef1-4a61-8f02-6bf973480f26">
+
+<img width="691" alt="image" src="https://github.com/dblock5/post-install-config/assets/102873312/280bc1c2-cc2f-4aa0-8938-3fa140d60a89">
+
+<p>
+
+</p>
+<p>
+Then I configured SLA's. In osTicket SLA is defined as a time limit for how long ticket will be open. I went on the admin panel, went to manage, and clicked SLA. Then I added different SLA plans with different grace periods and time schedules. 
+</p>
+<br />
+
+<p>
+<img width="689" alt="image" src="https://github.com/dblock5/post-install-config/assets/102873312/ccf04bbc-42af-4cdb-8b66-c488709b7e0c">
+
+</p>
+<p>
+I then created different Help Topics. When the users are filling out different tickets they can choose different Help Topics for what they need help with. For example password resets, Login issues etc. On admin panel, I clicked manage, then Help Topics. I created differnt Help Topics such as password reset. 
 </p>
 <br />
