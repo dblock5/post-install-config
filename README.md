@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-First, I created and configured Roles. Which are permissions granted to agents per department that they have access to. I went on the Admin Panel, clicked agents, then roles, and then added a new role called admin. Then granted admin permissions to do anything such as delete tickets and create tickets etc. Then I created a new department. I clicked admin panel, agents, then departments. Then I added a new department called System Administrators 
+First, I created and configured roles. Which are permissions granted to agents per department that they have access to. I went on the Admin Panel, clicked agents, then roles, and then added a new role called admin. Then granted admin permissions to do anything such as deleting tickets and creating tickets etc. Then I created a new department. I clicked admin panel, agents, then departments. Then I added a new department called System Administrators 
 </p>
 <br />
 
@@ -74,6 +74,6 @@ Then I configured SLA's. In osTicket SLA is defined as a time limit for how long
 
 </p>
 <p>
-Then I created different Help Topics. When the users are filling out different tickets they can choose different Help Topics for what they need help with. For example password resets, Login issues etc. On admin panel, I clicked manage, then Help Topics. I created differnt Help Topics such as password reset. 
+Then I created different Help Topics. When the users are filling out different tickets they can choose different Help Topics for what they need help with. For example password resets, login issues etc. On admin panel, I clicked manage, then Help Topics. Then I created different Help Topics such as password reset. 
 </p>
 <br />
